@@ -1,41 +1,29 @@
 # AANN
-Artificial Arduino Neural Network using Arduino Uno
+Artificial Arduino Neural Network using Arduino Nano.
 
-Describe your project
+A collection of various scripts related to Arduino Nano and Uno boards. Each folder describes scripts and wiring layouts for the associated Arduino board.
 
-== Step 1: Installation
-Please describe the steps to install this project.
+# Setup 
 
-For example:
+1. You will need to install the Arduino IDE or Web Editor to interface with the boards.
 
-1. Open this file
-2. Edit as you like
-3. Release to the World!
+2. Assemble the circuit following the diagrams named `layout.png` in the folders.
 
-== Step 2: Assemble the circuit
+3. Upload the code contained in this sketch on to your board using the IDE or Web Interface.
+  > This will execute the code on the microcontroller.
 
-Assemble the circuit following the diagram layout.png attached to the sketch
+# Materials
 
-== Step 3: Load the code
+* Arduino Uno board (standard)
 
-Upload the code contained in this sketch on to your board
+* Arduino Nano board (AT328P flavour)
 
-=== Folder structure
+* Breadboard
 
-....
- sketch123                => Arduino sketch folder
-  ├── sketch123.ino       => main Arduino file
-  ├── schematics.png      => (optional) an image of the required schematics
-  ├── layout.png          => (optional) an image of the layout
-  └── ReadMe.adoc         => this file
-....
+* Jumper cables
 
-=== BOM
-Add the bill of the materials you need for this project.
+* Charging cables
 
-|===
-| ID | Part name      | Part number | Quantity
-| R1 | 10k Resistor   | 1234-abcd   | 10
-| L1 | Red LED        | 2345-asdf   | 5
-| A1 | Arduino Zero   | ABX00066    | 1
-|===
+  * USB 2.0 to Micro USB (Nano)
+
+  * Standard A-B USB cable (Uno)
