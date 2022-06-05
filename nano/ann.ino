@@ -1,1 +1,2 @@
 // Make a perceptron learning algorithm on Arduino Nano (with Button Input & LED Output)
+// Step 1: Understand Digital Input / Output (https://roboindia.com/tutorials/arduino-nano-digital-input-push-button/)
