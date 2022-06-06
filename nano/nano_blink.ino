@@ -1,4 +1,5 @@
 // Blinks the 'L' LED of an Arduino Nano
+// This is a basic builtin example using only the board
 
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
